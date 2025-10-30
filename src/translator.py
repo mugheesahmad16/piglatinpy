@@ -18,6 +18,7 @@ class PigLatinTranslator:
         :return: the phrase.
         """
         return self.phrase
+    """for commit test"""
 
     def translate(self) -> str:
         """
